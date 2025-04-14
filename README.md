@@ -6,14 +6,11 @@ Sinta-se à vontade para explorar, acompanhar meus repositórios e, se quiser, t
 
 Vamos construir juntos?
 
- <div>
-  <a href="https://github.com/Fparaiz0">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fparaiz0&theme=synthwave&show_icons=true&hide_border=true&count_private=true">
-  </a>
+<div>
+<a href="https://github.com/Fparaiz0">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fparaiz0&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Fparaiz0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-<div><a href="https://github.com/Fparaiz0?tab=repositories">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fparaiz0&theme=synthwave&show_icons=true&hide_border=true&layout=compact">
-</a></div>
 
 ## 🖥️ Sistemas Operacionais Utilizados
 <p align="left">
