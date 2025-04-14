@@ -1,4 +1,4 @@
-# 👋 Olá, seja bem-vindo(a) ao meu perfil!
+## 👋 Olá, seja bem-vindo(a) ao meu perfil!
 
 Sou entusiasta de tecnologia, aprendizado contínuo e de transformar ideias em soluções. Aqui no meu GitHub você vai encontrar alguns dos meus projetos, estudos e contribuições.
 
