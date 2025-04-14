@@ -58,10 +58,8 @@ Vamos construir juntos?
 <p align="left">
   <a href="https://www.linkedin.com/in/felipe-paraizo-de-oliveira-45882431a/" target="_blank">
     <img align="center" alt="Linkedin" heigtht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
-    <span>Linkedin</span>
-  </a><br>
+  </a><span>Linkedin</span><br>
   <a href="mailto:fparaizo3@gmail.com" target="_blank">
     <img align="center" alt="Email" heigtht="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png">
-    <span>Email</span>
-  </a>
+  </a><span>Email</span>
 </p>
