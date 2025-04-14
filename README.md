@@ -56,10 +56,13 @@ Vamos construir juntos?
 ## 📫 Contato Profissional
 
 <p align="left">
+
+- Linkedin
   <a href="https://www.linkedin.com/in/felipe-paraizo-de-oliveira-45882431a/" target="_blank">
     <img align="center" alt="Linkedin" heigtht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
-  </a><span> Linkedin</span><br>
+  </a>
+- Email
   <a href="mailto:fparaizo3@gmail.com" target="_blank">
     <img align="center" alt="Email" heigtht="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png">
-  </a><span> Email</span>
+  </a>
 </p>
