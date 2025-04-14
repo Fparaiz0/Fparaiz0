@@ -46,15 +46,15 @@ Vamos construir juntos?
 <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 <img align="center" alt="Bootstrap" heigtht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />
-<img align="center" alt="Sql" heigtht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img align="center" alt="Sql" heigtht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
 <p>
 
 ## 📫 Contato Profissional
 
 <p align="left">
-  <a align="center" alt="Linkedin" heigtht="30" width="40" href="https://www.linkedin.com/in/felipe-paraizo-de-oliveira-45882431a/" target="_blank">
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  <a href="https://www.linkedin.com/in/felipe-paraizo-de-oliveira-45882431a/" target="_blank">
+    <img align="center" alt="Linkedin" heigtht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="mailto:fparaizo3@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
