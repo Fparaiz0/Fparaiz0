@@ -15,9 +15,6 @@ Vamos construir juntos?
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fparaiz0&theme=synthwave&show_icons=true&hide_border=true&layout=compact">
 </a></div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Fparaiz0&theme=synthwave)](https://git.io/streak-stats)
-
-
 ## 🖥️ Sistemas Operacionais Utilizados
 <p align="left">
   <span>Linux - Principal</span>
@@ -35,7 +32,7 @@ Vamos construir juntos?
   <img align="center" alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </p>
 
 ## 🔧 Ferramentas Utilizadas
@@ -49,3 +46,14 @@ Vamos construir juntos?
 <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 <p>
+
+## 📫 Contato Profissional
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/felipe-paraizo-de-oliveira-45882431a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:fparaizo3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
