@@ -11,14 +11,14 @@ Vamos construir juntos?
   <img 
     loading="lazy" 
     height="180em" 
-    width="48%" 
+    width="50%" 
     src="https://github-readme-stats.vercel.app/api?username=Fparaiz0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
   />
   <img 
     loading="lazy" 
     height="180em" 
-    width="48%" 
+    width="50%" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fparaiz0&layout=compact&langs_count=7&theme=dracula"
     alt="Top Languages"
   />
