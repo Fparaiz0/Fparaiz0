@@ -66,3 +66,26 @@ Vamos construir juntos?
     <img align="center" alt="Email" heigtht="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png">
   </a>
 </p>
+
+
+<section style="font-family: Arial, sans-serif; color: #fff; background-color: #0f0f11; padding: 20px; border-radius: 10px; max-width: 400px;">
+  <h2 style="display: flex; align-items: center; gap: 8px; font-size: 1.5rem; border-bottom: 1px solid #333; padding-bottom: 10px;">
+
+  ##  📬 Contato Profissional
+  </h2>
+
+  <ul style="list-style: none; padding: 0; margin-top: 20px;">
+    <li style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24" height="24">
+      <a href="https://www.linkedin.com/in/seuperfil" target="_blank" style="color: #0e76a8; text-decoration: none; font-size: 1rem;">
+        Linkedin
+      </a>
+    </li>
+    <li style="display: flex; align-items: center; gap: 10px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="24" height="24">
+      <a href="mailto:seuemail@gmail.com" style="color: #ea4335; text-decoration: none; font-size: 1rem;">
+        Email
+      </a>
+    </li>
+  </ul>
+</section>
