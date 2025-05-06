@@ -6,8 +6,12 @@ Sinta-se à vontade para explorar, acompanhar meus repositórios e, se quiser, t
 
 Vamos construir juntos?
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fparaiz0&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Fparaiz0/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fparaiz0&theme=dark&layout=donut)](https://github.com/Fparaiz0/github-readme-stats)
+<a href="https://github.com/Fparaiz0/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fparaiz0&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Fparaiz0/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fparaiz0&repo=convoychat" />
+</a>
 
 ## 🖥️ Sistemas Operacionais Utilizados
 <p align="left">
