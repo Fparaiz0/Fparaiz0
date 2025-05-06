@@ -7,6 +7,7 @@ Sinta-se à vontade para explorar, acompanhar meus repositórios e, se quiser, t
 Vamos construir juntos?
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fparaiz0)](https://github.com/Fparaiz0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fparaiz0)](https://github.com/Fparaiz0/github-readme-stats)
 
 ## 🖥️ Sistemas Operacionais Utilizados
 <p align="left">
