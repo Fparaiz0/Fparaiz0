@@ -6,24 +6,7 @@ Sinta-se à vontade para explorar, acompanhar meus repositórios e, se quiser, t
 
 Vamos construir juntos?
 
-<div>
-<a href="https://github.com/Fparaiz0" target="_blank" style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img 
-    loading="lazy" 
-    height="180em" 
-    width="50%" 
-    src="https://github-readme-stats.vercel.app/api?username=Fparaiz0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
-  <img 
-    loading="lazy" 
-    height="180em" 
-    width="50%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fparaiz0&layout=compact&langs_count=7&theme=dracula"
-    alt="Top Languages"
-  />
-</a>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fparaiz0)](https://github.com/Fparaiz0/github-readme-stats)
 
 ## 🖥️ Sistemas Operacionais Utilizados
 <p align="left">
