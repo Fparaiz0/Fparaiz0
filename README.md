@@ -12,7 +12,7 @@ Vamos construir juntos?
   </a>
 </div>
 <div><a href="https://github.com/Fparaiz0?tab=repositories">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fparaz0&theme=dark&show_icons=true&hide_border=true&layout=compact">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fparaiz0&theme=dark&show_icons=true&hide_border=true&layout=compact">
 </a></div>
 
 ## 🖥️ Sistemas Operacionais Utilizados
