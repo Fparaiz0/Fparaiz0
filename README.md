@@ -9,7 +9,7 @@ Vamos construir juntos?
  <div>
   <a href="https://github.com/Fparaiz0">
   <img src="https://github-readme-stats.vercel.app/api?username=Fparaiz0&theme=dark&show_icons=true&hide_border=true&count_private=true">
-  </a>
+  </a> 
 </div>
 <div><a href="https://github.com/Fparaiz0?tab=repositories">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fparaiz0&theme=dark&show_icons=true&hide_border=true&layout=compact">
