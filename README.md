@@ -1,4 +1,4 @@
-## 👋 Olá, seja bem-vindo(a) ao meu perfil!
+ ## 👋 Olá, seja bem-vindo(a) ao meu perfil!
 
 Sou entusiasta de tecnologia, aprendizado contínuo e de transformar ideias em soluções. Aqui no meu GitHub você vai encontrar alguns dos meus projetos, estudos e contribuições.
 
@@ -51,6 +51,7 @@ Vamos construir juntos?
 <img align="center" alt="Composer" heigtht="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />
 <img align="center" alt="Filezilla" heigtht="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" />
 <img align="center" alt="Trello" heigtht="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
+<img align="center" alt="TOTVS" height="20" width="40" src="https://seeklogo.com/images/T/totvs-logo-B9D2499E3E-seeklogo.com.png" />
 <p>
 
 ## 📫 Contato Profissional
