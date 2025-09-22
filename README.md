@@ -51,10 +51,10 @@ Acredito no poder da colaboração e na constante evolução do conhecimento. Me
 
 ### Sistemas Operacionais
 <p align="left">
-  <span>Linux - Principal</span>
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <span>Windows - Secundário</span>
+  <span>Windows - Principal</span>
   <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+  <span>Linux - Secundário</span>
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </p>
 
 ## 📧 Conecte-se Comigo
