@@ -1,12 +1,14 @@
- ## 👋 Olá, seja bem-vindo(a) ao meu perfil!
+# 👋 Bem-vindo(a) ao meu Perfil GitHub!
 
-Sou entusiasta de tecnologia, aprendizado contínuo e de transformar ideias em soluções. Aqui no meu GitHub você vai encontrar alguns dos meus projetos, estudos e contribuições.
+Sou um entusiasta da tecnologia com uma paixão por transformar ideias inovadoras em soluções práticas e eficientes. Este espaço no GitHub é um reflexo da minha jornada de aprendizado contínuo, onde compartilho projetos pessoais, estudos aprofundados e contribuições para a comunidade de desenvolvimento.
 
-Sinta-se à vontade para explorar, acompanhar meus repositórios e, se quiser, trocar uma ideia ou colaborar. 🚀
+## 🚀 Minha Missão
 
-Vamos construir juntos?
+Acredito no poder da colaboração e na constante evolução do conhecimento. Meu objetivo é desenvolver software de alta qualidade, explorando novas tecnologias e aplicando as melhores práticas de engenharia. Sinta-se à vontade para explorar meus repositórios, acompanhar meu progresso e, quem sabe, colaborar em algum projeto.
 
- <div>
+## 📊 Estatísticas do GitHub
+
+<div>
   <a href="https://github.com/Fparaiz0">
   <img src="https://github-readme-stats.vercel.app/api?username=Fparaiz0&theme=dark&show_icons=true&hide_border=true&count_private=true">
   </a> 
@@ -15,15 +17,9 @@ Vamos construir juntos?
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fparaiz0&theme=dark&show_icons=true&hide_border=true&layout=donut">
 </a></div>
 
-## 🖥️ Sistemas Operacionais Utilizados
-<p align="left">
-  <span>Linux - Principal</span>
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <span>Windows - Secundário</span>
-  <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-</p>
+## 💻 Habilidades Técnicas
 
-## 💻 Linguagens e Frameworks Utilizados
+### Linguagens e Frameworks
 <p align="left">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -34,12 +30,12 @@ Vamos construir juntos?
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Sql" heigtht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="SQL" heigtht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 </p>
 
-## 🔧 Ferramentas Utilizadas
+### Ferramentas e Ambientes
 <p align="left">
-<img align="center" alt="Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="center" alt="PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"> 
 <img align="center" alt="PhpStorm" height="30" width="30" src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png">
  <img align="center" alt="IntelliJ IDEA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
@@ -51,12 +47,21 @@ Vamos construir juntos?
 <img align="center" alt="Composer" heigtht="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />
 <img align="center" alt="Filezilla" heigtht="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" />
 <img align="center" alt="Trello" heigtht="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
-<p>
+</p>
 
-## 📫 Contato Profissional
+### Sistemas Operacionais
+<p align="left">
+  <span>Linux - Principal</span>
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <span>Windows - Secundário</span>
+  <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+</p>
+
+## 📧 Conecte-se Comigo
+
+Estou sempre aberto a novas conexões e oportunidades. Se você tiver alguma dúvida, sugestão ou quiser discutir projetos, sinta-se à vontade para entrar em contato:
 
 <div>
 <a href = "mailto:fparaizo3@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/felipe-paraizo-de-oliveira-45882431a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
