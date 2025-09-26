@@ -38,7 +38,7 @@ Acredito no poder da colaboração e na constante evolução do conhecimento. Me
 ### Ferramentas e Ambientes
 <p align="left">
   <a href="https://code.visualstudio.com/">
-    <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+    <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   </a>
   <a href="https://www.jetbrains.com/pycharm/">
     <img align="center" alt="PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
