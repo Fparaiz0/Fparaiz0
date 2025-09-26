@@ -36,53 +36,26 @@ Acredito no poder da colaboração e na constante evolução do conhecimento. Me
 </p>
 
 ### Ferramentas e Ambientes
-<p align="left">
-  <a href="https://code.visualstudio.com/">
-    <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/">
-    <img align="center" alt="PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
-  </a>
-  <a href="https://www.jetbrains.com/phpstorm/">
-    <img align="center" alt="PhpStorm" height="30" width="30" src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png">
-  </a>
-  <a href="https://www.jetbrains.com/idea/">
-    <img align="center" alt="IntelliJ IDEA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-  </a>
-  <a href="https://developer.android.com/studio">
-    <img align="center" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-  </a>
-  <a href="https://firebase.google.com/">
-    <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-  </a>
-  <a href="https://www.sqlite.org/">
-    <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-  </a>
-  <a href="https://github.com/">
-    <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  </a>
-  <a href="https://www.postman.com/">
-    <img align="center" alt="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain.svg">
-  </a>
-  <a href="https://git-scm.com/">
-    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  </a>
-  <a href="https://www.mysql.com/">
-    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  </a>
-  <a href="https://www.docker.com/">
-    <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  </a>
-  <a href="https://getcomposer.org/">
-    <img align="center" alt="Composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />
-  </a>
-  <a href="https://filezilla-project.org/">
-    <img align="center" alt="Filezilla" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" />
-  </a>
-  <a href="https://trello.com/">
-    <img align="center" alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
-  </a>
-</p>
+
+<table>
+  <tr>
+    <td><a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" title="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/></a></td>
+    <td><a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" title="PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"/></a></td>
+    <td><a href="https://www.jetbrains.com/phpstorm/"><img alt="PhpStorm" title="PhpStorm" height="30" width="30" src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png"/></a></td>
+    <td><a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" title="IntelliJ IDEA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/></a></td>
+    <td><a href="https://developer.android.com/studio"><img alt="Android Studio" title="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/></a></td>
+    <td><a href="https://firebase.google.com/"><img alt="Firebase" title="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/></a></td>
+    <td><a href="https://www.sqlite.org/"><img alt="SQLite" title="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/></a></td>
+    <td><a href="https://github.com/"><img alt="GitHub" title="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/></a></td>
+    <td><a href="https://www.postman.com/"><img alt="Postman" title="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain.svg"/></a></td>
+    <td><a href="https://git-scm.com/"><img alt="Git" title="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></a></td>
+    <td><a href="https://www.mysql.com/"><img alt="MySQL" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/></a></td>
+    <td><a href="https://www.docker.com/"><img alt="Docker" title="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/></a></td>
+    <td><a href="https://getcomposer.org/"><img alt="Composer" title="Composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg"/></a></td>
+    <td><a href="https://filezilla-project.org/"><img alt="FileZilla" title="FileZilla" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg"/></a></td>
+    <td><a href="https://trello.com/"><img alt="Trello" title="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"/></a></td>
+  </tr>
+</table>
 
 ### Sistemas Operacionais
 <p align="left">
