@@ -30,7 +30,7 @@ Acredito no poder da colaboração e na constante evolução do conhecimento. Me
     <a href="https://learn.microsoft.com/azure/azure-sql/"><img alt="SQL" title="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/></a>
 </p>
 
-### Ferramentas e Ambientes
+### ⚒️ Ferramentas e Ambientes
 
 <p align="center">
     <a href="https://laravel.com/"><img alt="Laravel" title="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"/></a>
@@ -66,7 +66,7 @@ Acredito no poder da colaboração e na constante evolução do conhecimento. Me
 
 Estou sempre aberto a novas conexões e oportunidades. Se você tiver alguma dúvida, sugestão ou quiser discutir projetos, sinta-se à vontade para entrar em contato:
 
-<div>
-<a href = "mailto:fparaizo3@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/felipe-paraizo-de-oliveira-45882431a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div align="center">
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fparaizo3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Paraizo-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-paraizo-de-oliveira-45882431a/)
 </div>
