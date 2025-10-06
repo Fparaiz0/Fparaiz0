@@ -66,7 +66,5 @@ Acredito no poder da colaboração e na constante evolução do conhecimento. Me
 
 Estou sempre aberto a novas conexões e oportunidades. Se você tiver alguma dúvida, sugestão ou quiser discutir projetos, sinta-se à vontade para entrar em contato:
 
-<div align="center">
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fparaizo3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Paraizo-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-paraizo-de-oliveira-45882431a/)
-</div>
