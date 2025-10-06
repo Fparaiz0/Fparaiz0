@@ -44,7 +44,7 @@ Acredito no poder da colaboração e na constante evolução do conhecimento. Me
     <a href="https://firebase.google.com/"><img alt="Firebase" title="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/></a>
     <a href="https://www.sqlite.org/"><img alt="SQLite" title="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/></a>
     <a href="https://github.com/fparaizo3">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40" style="filter: invert(1);">
 </a>
     <a href="https://www.postman.com/"><img alt="Postman" title="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain.svg"/></a>
     <a href="https://git-scm.com/"><img alt="Git" title="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></a>
