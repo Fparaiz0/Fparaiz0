@@ -19,7 +19,7 @@ Acredito no poder da colaboração e na constante evolução do conhecimento. Me
 
 ## 💻 Habilidades Técnicas
 
-<p>
+<p align="center">
     <a href="https://www.java.com/"><img alt="Java" title="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/></a>
     <a href="https://www.php.net/"><img alt="PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/></a>
     <a href="https://www.python.org/"><img alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
@@ -32,7 +32,7 @@ Acredito no poder da colaboração e na constante evolução do conhecimento. Me
 
 ### Ferramentas e Ambientes
 
-<p>
+<p align="center">
     <a href="https://laravel.com/"><img alt="Laravel" title="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"/></a>
     <a href="https://tailwindcss.com/"><img alt="Tailwind" title="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"/></a>
     <a href="https://flutter.dev/"><img alt="Flutter" title="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/></a>
