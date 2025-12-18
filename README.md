@@ -15,7 +15,7 @@ Acredito no poder da colaboração e na constante evolução do conhecimento. Me
 </div>
 <div><a href="https://github.com/Fparaiz0?tab=repositories">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fparaiz0&theme=dark&show_icons=true&hide_border=true&layout=donut">
-</a></div>
+</a></div> 
 
 ## 💻 Habilidades Técnicas
 
