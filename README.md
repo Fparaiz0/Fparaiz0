@@ -15,7 +15,7 @@ Acredito no poder da colaboração e na constante evolução do conhecimento. Me
 </div>
 <div><a href="https://github.com/Fparaiz0?tab=repositories">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fparaiz0&theme=dark&show_icons=true&hide_border=true&layout=donut">
-</a></div> 
+</a></div>
 
 ## 💻 Habilidades Técnicas
 
@@ -56,9 +56,7 @@ Acredito no poder da colaboração e na constante evolução do conhecimento. Me
 
 ### Sistemas Operacionais
 <p align="left">
-  <span>Windows - Principal</span>
-  <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-  <span>Linux - Secundário</span>
+  <span>Linux - Omarchy</span>
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </p>
 
