@@ -4,6 +4,10 @@ Welcome to my digital garden! I am a **Software Engineer** dedicated to building
 
 ### 🌐 [Visit my Portfolio: felipeparaizo.com.br](https://felipeparaizo.com.br)
 
+<p align="left">
+<a href="/README-PT.md" target="_blank">🇧🇷 Português</a>
+</p>
+
 ---
 
 ## 🚀 About Me
