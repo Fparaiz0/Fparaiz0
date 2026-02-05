@@ -79,5 +79,5 @@ Estou sempre aberto a discutir novos projetos, ideias criativas ou oportunidades
 
 ---
 <p align="center">
-  <i>"Código é como humor. Quando você tem que explicar, é porque é ruim."</i>
+  <i>"Código é como humor. Quando você tem que explicar, é porque é ruim."</i> - <a href="https://www.bitnative.com/">Cory House</a>
 </p>
