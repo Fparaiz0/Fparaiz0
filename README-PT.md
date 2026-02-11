@@ -1,6 +1,6 @@
-# Felipe Paraizo de Oliveira | Engenheiro de Software 🚀
+# Felipe Paraizo de Oliveira | Desenvolvedor 🚀
 
-Bem-vindo ao meu perfil! Sou um **Engenheiro de Software** focado em construir aplicações escaláveis e de alta performance. Com uma base sólida em **Desenvolvimento Full Stack**, sou especialista em transformar problemas complexos em código elegante.
+Bem-vindo ao meu perfil! Sou um **Desenvolvedor** focado em construir aplicações escaláveis e de alta performance. Com uma base sólida em **Desenvolvimento Full Stack**, sou especialista em transformar problemas complexos em código elegante.
 
 ### 🌐 [Visite meu Portfólio: felipeparaizo.com.br](https://felipeparaizo.com.br)
 
