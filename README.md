@@ -1,6 +1,6 @@
-# Felipe Paraizo de Oliveira | Software Engineer 🚀
+# Felipe Paraizo de Oliveira | Developer 🚀
 
-Welcome to my digital garden! I am a **Software Engineer** dedicated to building scalable, high-performance applications. With a strong foundation in **Full Stack Development**, I specialize in transforming complex problems into elegant code.
+Welcome to my digital garden! I am a **Developer** dedicated to building scalable, high-performance applications. With a strong foundation in **Full Stack Development**, I specialize in transforming complex problems into elegant code.
 
 ### 🌐 [Visit my Portfolio: felipeparaizo.com.br](https://felipeparaizo.com.br)
 
