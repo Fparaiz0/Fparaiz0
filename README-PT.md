@@ -1,8 +1,8 @@
-# Felipe Paraizo de Oliveira | Desenvolvedor 🚀
+# Felipe Paraizo de Oliveira | CTO & Desenvolvedor Full Stack
 
-Bem-vindo ao meu perfil! Sou um **Desenvolvedor** focado em construir aplicações escaláveis e de alta performance. Com uma base sólida em **Desenvolvimento Full Stack**, sou especialista em transformar problemas complexos em código elegante.
+Liderando a inovação tecnológica no **Grupo Veronez** e construindo aplicações de alto desempenho. Sou um desenvolvedor e líder técnico dedicado a transformar desafios complexos em soluções escaláveis que impulsionam o crescimento dos negócios.
 
-### 🌐 [Visite meu Portfólio: felipeparaizo.com.br](https://felipeparaizo.com.br)
+### 🌐 [Visite meu Portfólio: felipeparaizo.com.br](https://felipeparaizo.com.br) | 🏢 [Grupo Veronez](https://grupoveronez.com.br)
 
 <p align="left">
 <a href="/README.md" target="_blank">🇺🇸 English</a>
@@ -11,16 +11,15 @@ Bem-vindo ao meu perfil! Sou um **Desenvolvedor** focado em construir aplicaçõ
 ---
 
 ## 🚀 Sobre Mim
+Como **CTO do Grupo Veronez**, meu foco é utilizar a tecnologia como o principal motor de expansão empresarial. Possuo sólida base em arquitetura de software e gestão técnica, liderando o desenvolvimento de sistemas robustos e experiências mobile fluidas.
 
-Sou apaixonado por arquitetura de software e aprendizado contínuo. Meu foco principal é o desenvolvimento de sistemas robustos utilizando **Java**, **Javascript**, **Typescript**, **PHP & Laravel**, **Python** e **C# & .NET**, além de criar experiências móveis fluidas com **Flutter**.
-
-- 🔭 **Foco Atual:** Arquitetura de Software Avançada & Soluções em Nuvem.
-- 📱 **Especialista Mobile:** Criando apps multiplataforma com Dart & Flutter.
-- 🌍 **Localização:** Ibaiti, PR - Brasil (Disponível para colaborações globais).
+- 🔭 **Foco Atual:** Arquitetura de Software Avançada, Soluções em Nuvem e Estratégias de Crescimento Digital.
+- 💼 **Liderança:** Direcionando a visão tecnológica do Grupo Veronez para capacitar negócios através de código e inovação.
+- 📱 **Especialista Mobile:** Construindo apps multiplataforma de alta performance com Dart & Flutter.
 
 ---
 
-## 💻 Stack Tecnológica
+## 💻 Tech Stack
 
 ### Linguagens & Core
 <p align="left">
@@ -58,7 +57,7 @@ Sou apaixonado por arquitetura de software e aprendizado contínuo. Meu foco pri
     <a href="https://getcomposer.org/"><img alt="Composer" title="Composer" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg"/></a>
 </p>
 
-### IDEs & Sistemas Operacionais
+### IDEs & SO
 <p align="left">
     <a href="https://code.visualstudio.com/"><img alt="VS Code" title="VS Code" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/></a>
     <a href="https://www.jetbrains.com/webstorm/"><img alt="WebStorm" title="WebStorm" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg"/></a>
@@ -66,19 +65,19 @@ Sou apaixonado por arquitetura de software e aprendizado contínuo. Meu foco pri
     <a href="https://www.jetbrains.com/phpstorm/"><img alt="PhpStorm" title="PhpStorm" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg"/></a>
     <a href="https://developer.apple.com/xcode/"><img alt="Xcode" title="Xcode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg"/></a>
     <a href="https://www.jetbrains.com/rider/"><img alt="Rider" title="Rider" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg"/></a>
-    <a href="https://archlinux.org/"><img alt="Archy" title="Archy" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"/></a>
+    <a href="https://archlinux.org/"><img alt="Arch Linux" title="Arch Linux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"/></a>
     <a href="https://www.apple.com/macos/"><img alt="macOS" title="macOS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"/></a>
 </p>
 
 ---
 
-## 📧 Vamos nos conectar?
+## 📧 Vamos Conectar
 
-Estou sempre aberto a discutir novos projetos, ideias criativas ou oportunidades de fazer parte da sua visão.
+Estou sempre aberto a discutir novos projetos, parcerias estratégicas pelo **Grupo Veronez** ou oportunidades de transformar sua visão em realidade tecnológica.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fparaizo3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Paraizo-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-paraizo-de-oliveira-45882431a/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-felipeparaizo.com.br-black?style=for-the-badge&logo=google-chrome)](https://felipeparaizo.com.br)
+[![Portfolio](https://img.shields.io/badge/Portfolio-felipeparaizo.com.br-black?style=for-the-badge&logo=google-chrome)](https://felipeparaizo.com.br)
 
 ---
 <p align="center">
