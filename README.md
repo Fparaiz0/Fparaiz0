@@ -1,8 +1,8 @@
-# Felipe Paraizo de Oliveira | Developer 🚀
+# Felipe Paraizo de Oliveira | CTO & Full Stack Developer 
 
-Welcome to my digital garden! I am a **Developer** dedicated to building scalable, high-performance applications. With a strong foundation in **Full Stack Development**, I specialize in transforming complex problems into elegant code.
+Leading technological innovation at **Grupo Veronez** and building high-performance applications. I am a developer and technical leader dedicated to transforming complex challenges into scalable solutions that drive business growth.
 
-### 🌐 [Visit my Portfolio: felipeparaizo.com.br](https://felipeparaizo.com.br)
+### 🌐 [Visit my Portfolio: felipeparaizo.com.br](https://felipeparaizo.com.br) | 🏢 [Grupo Veronez](https://grupoveronez.com.br)
 
 <p align="left">
 <a href="/README-PT.md" target="_blank">🇧🇷 Português</a>
@@ -11,11 +11,11 @@ Welcome to my digital garden! I am a **Developer** dedicated to building scalabl
 ---
 
 ## 🚀 About Me
-I am passionate about software architecture and continuous learning. My focus lies in developing robust systems using **Java**, **Javascript**, **Typescript**, **PHP & Laravel**, **Python** and **C# & .NET**,  while crafting seamless mobile experiences with **Flutter**.
+As the **CTO of Grupo Veronez**, I focus on leveraging technology as the primary engine for business expansion. I have a solid foundation in software architecture and technical management, leading the development of robust systems and seamless mobile experiences.
 
-- 🔭 **Current Focus:** Advanced Software Architecture & Cloud Solutions.
-- 📱 **Mobile Specialist:** Building cross-platform apps with Dart & Flutter.
-- 🌍 **Location:** Ibaiti, PR - Brazil (Available for global collaboration).
+- 🔭 **Current Focus:** Advanced Software Architecture, Cloud Solutions, and Digital Growth Strategies.
+- 💼 **Leadership:** Directing the technological vision of Grupo Veronez to empower businesses through code and innovation.
+- 📱 **Mobile Specialist:** Building high-performance cross-platform apps with Dart & Flutter.
 
 ---
 
@@ -51,9 +51,9 @@ I am passionate about software architecture and continuous learning. My focus li
     <a href="https://www.docker.com/"><img alt="Docker" title="Docker" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/></a>
     <a href="https://git-scm.com/"><img alt="Git" title="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></a>
     <a href="https://www.postman.com/"><img alt="Postman" title="Postman" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain.svg"/></a>
-  <a href="https://www.postgresql.org/"><img alt="PostgreSQL" title="PostgreSQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/></a>
+    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" title="PostgreSQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/></a>
     <a href="https://www.mysql.com/"><img alt="MySQL" title="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/></a>
-    <a href="https://www.sqlite.org/"><img alt="SQLite" title="SQLite" height="35" width="45" src="https://www.sqlite.org/images/sqlite370_banner.gif"/></a>
+    <a href="https://www.sqlite.org/"><img alt="SQLite" title="SQLite" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/></a>
     <a href="https://getcomposer.org/"><img alt="Composer" title="Composer" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg"/></a>
 </p>
 
@@ -65,7 +65,7 @@ I am passionate about software architecture and continuous learning. My focus li
     <a href="https://www.jetbrains.com/phpstorm/"><img alt="PhpStorm" title="PhpStorm" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg"/></a>
     <a href="https://developer.apple.com/xcode/"><img alt="Xcode" title="Xcode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg"/></a>
     <a href="https://www.jetbrains.com/rider/"><img alt="Rider" title="Rider" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg"/></a>
-    <a href="https://archlinux.org/"><img alt="Archy" title="Archy" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"/></a>
+    <a href="https://archlinux.org/"><img alt="Arch Linux" title="Arch Linux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"/></a>
     <a href="https://www.apple.com/macos/"><img alt="macOS" title="macOS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"/></a>
 </p>
 
@@ -73,7 +73,7 @@ I am passionate about software architecture and continuous learning. My focus li
 
 ## 📧 Let's Connect
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+I'm always open to discussing new projects, strategic partnerships through **Grupo Veronez**, or opportunities to turn your vision into technological reality.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fparaizo3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Paraizo-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-paraizo-de-oliveira-45882431a/)
