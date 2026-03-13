@@ -76,7 +76,7 @@ As the **CTO of Grupo Veronez**, I focus on leveraging technology as the primary
 I'm always open to discussing new projects, strategic partnerships through **Grupo Veronez**, or opportunities to turn your vision into technological reality.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fparaizo3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Paraizo-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-paraizo-de-oliveira-45882431a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Paraizo-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipeparaizo/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-felipeparaizo.com.br-black?style=for-the-badge&logo=google-chrome)](https://felipeparaizo.com.br)
 
 ---
