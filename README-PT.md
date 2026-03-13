@@ -76,7 +76,7 @@ Como **CTO do Grupo Veronez**, meu foco é utilizar a tecnologia como o principa
 Estou sempre aberto a discutir novos projetos, parcerias estratégicas pelo **Grupo Veronez** ou oportunidades de transformar sua visão em realidade tecnológica.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fparaizo3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Paraizo-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-paraizo-de-oliveira-45882431a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Paraizo-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipeparaizo/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-felipeparaizo.com.br-black?style=for-the-badge&logo=google-chrome)](https://felipeparaizo.com.br)
 
 ---
